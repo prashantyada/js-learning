@@ -1,39 +1,39 @@
 console.log("===== Assignment-1 =====");
 var Name;
- Name="Prashant Yadav";
+ Name="My Name:Prashant Yadav";
  console.log(Name);
 
  var fullName;
- fullName="Prashant Prakash Yadav";
+ fullName="My Full Name:Prashant Prakash Yadav";
 console.log(fullName);
 
 
  console.log("====== Assignment-2 =====");
  var myLove;
- myLove="I Love Only JS";
+ myLove="myLove:I Love Only JS";
  console.log(myLove);
 
  console.log("===== Assignment-3 =====");
  var firstName;
- firstName="Prashant";
+ firstName="FirstName:Prashant";
  console.log(firstName);
  var lastName;
- lastName="Yadav";
+ lastName="LastName:Yadav";
  console.log(lastName);
  var age;
- age="23";
+ age="Age23";
  console.log(age);
  var address;
- address="Sangola";
+ address="Addreess:Sangola";
  console.log(address);
  var pinCode;
- pinCode="413308";
+ pinCode="PinCode413308";
  console.log(pinCode);
  var gender;
- gender="Male";
+ gender="Gender:Male";
  console.log(gender);
  var isMarried;
- isMarried="No";
+ isMarried="IsMarried:No";
  console.log(isMarried);
  
 
